@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace InterfacesTechClass
+﻿namespace InterfacesTechClass
 {
     internal class Program
     {

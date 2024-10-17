@@ -9,7 +9,6 @@
     <Folder Include="Controllers\" />
     <Folder Include="Core\Contracts\" />
     <Folder Include="infra\" />
-    <Folder Include="Service\" />
   </ItemGroup>
 
 </Project>
