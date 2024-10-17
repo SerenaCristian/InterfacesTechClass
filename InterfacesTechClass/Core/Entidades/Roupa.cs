@@ -1,4 +1,5 @@
 ﻿using System;
+using InterfacesTechClass.Core.Contracts;
 
 namespace InterfacesTechClass.Core.Entidades
 {
