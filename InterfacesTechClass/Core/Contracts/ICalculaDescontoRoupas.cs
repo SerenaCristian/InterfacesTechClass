@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace InterfacesTechClass.Core.Entidades
+namespace InterfacesTechClass.Core.Contracts
 {
     internal interface ICalculaDescontoRoupas
     {
