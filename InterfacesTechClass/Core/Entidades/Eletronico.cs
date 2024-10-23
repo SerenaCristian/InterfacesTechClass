@@ -2,13 +2,13 @@
 
 namespace InterfacesTechClass.Core.Entidades
 {
-    internal class Eletronico : ICalculaDescontoEletronico
+    internal class Eletronico : ICalculaDesconto
     {
         public int Nome { get; set; }
         public double Preco { get; set; }
         public int Quantidade { get; set; }
 
-        public double CalculaDescontoEletronico() => Preco - Preco * 0.10;
+        public double CalculaDesconto() => Preco - Preco * 0.10;
         
     }
 }

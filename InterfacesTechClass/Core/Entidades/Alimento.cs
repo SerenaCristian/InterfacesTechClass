@@ -2,14 +2,12 @@
 
 namespace InterfacesTechClass.Core.Entidades
 {
-    internal class Alimento : IProdutoSemDesconto
+    internal class Alimento 
     {
         public string Nome { get; set; }
         public double Preco { get; set; }
 
-        public string ProdutoSemDesconto()
-        {
-            return "A Categoria Alimento não possui desconto.";
+        
         }
     }
-}
+
